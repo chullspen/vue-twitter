@@ -1,4 +1,4 @@
-# vue-twitter
+# This is a project about replicating some of the functionality of twitter for the sake of practice and fun.
 
 ## Project setup
 ```
